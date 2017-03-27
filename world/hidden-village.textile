@@ -1,0 +1,47 @@
+h1. Hidden Village
+
+A village containing shinobi who are aligned with their nation.
+
+h2. Authority Hierachy
+
+h3. Kage
+
+Kages are shinobi who are in-charge of executive decisions regard all aspects of their hidden village including safety, prosperity, construction, interal affairs.
+
+- reports to := Their nation's lord(s).
+
+h3. Advisors
+
+Advisors are those who advise the Kage on affairs they are acustomed too. It is not uncommon for elders or previous Kage to take these positions in order to give insight to the current Kage.
+
+- reports to := Their "Kage":#kage
+
+h3. ANBU
+
+ANBU are a special assassination and tactical squadron of shinobi from their respective villages.
+
+- reports to := Their "Kage":#kage
+
+h3. Jonin
+
+Jōnin are specialized shinobi commanders who have demonstrated exceptional abilities in their service to the hidden village. On top of taking S-rank missions, they are also in-charge of raising Genin. Jonin will often be assigned three Genin's to mentor and take C-Rank or below missions with.
+
+- reports to := Their "Kage":#kage
+
+h3. Chunin
+
+Chūnin are shinobi who possess a high tactical prowess and leadership skills. Chunin are able to lead teams on missions. In order to become a Chunin, Genin are given a chance to compete in the Chunin Exams. Those who demonstrate their potential in strategy and leadership will become Chunin. Some Chunin also becomes teachers who instruct the "Academy Students":#academy-students.
+
+- reports to := Their "Kage":#kage
+
+h3. Genin
+
+Genin are shinobi who have graduated from the academy and are ready to take on simple, common missions for their village. They usually form of team of 3 and are lead by a "Chunin":#chunin or "Jonin":#jonin. 
+
+- reports to := Their "Kage":#kage, Their assigned "Jonin":#jonin
+
+h3. Academy Students
+
+Academy students are fledging shinobi who are practicing the fundemental arts of Ninjutsu, Taijutsu and Genjutsu, as well as the essentially skills for a shinobi.
+
+- reports to := Their "Kage":#kage, Their assigned "Teachers":#chunin
