@@ -1,0 +1,3 @@
+h1. Naruto 5E Conversion
+
+This repository contains the mechanics and information to run a campaign using D&D 5th Edition ruleset in the world of Naruto.
