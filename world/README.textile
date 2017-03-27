@@ -6,5 +6,5 @@ h2. Layout
 
 - Continent := a collection of nations surrounded by oceans.
 - Nation := land which is goverened by fuedal lords. These lands contain many towns, cities and villages. The lord usually resides in the capital.
-- Hidden Villages := a hidden village, usually created/funded by their nation's lord that contains shinobi clans. The hidden villages are goverened by a Kage _(shadow)_, who assigns missions and operations for that are beneficial to their nation or allies.
+- "Hidden Villages":./hidden-village.textile := a hidden village, usually created/funded by their nation's lord that contains shinobi clans. The hidden villages are goverened by a Kage _(shadow)_, who assigns missions and operations for that are beneficial to their nation or allies.
 - Villages/Towns := locations which are scattered around nations who do not have to be affiliated with the nation they reside in. They are usually run by a mayor, lord, or governor.
