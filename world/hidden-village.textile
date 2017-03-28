@@ -12,8 +12,7 @@ Kages are shinobi who are in-charge of executive decisions regard all aspects of
 
 h3. Advisors
 
-Advisors are those who advise the Kage on affairs they are acustomed too. It is not uncommon for elders or previous Kage to take these positions in order to give insight to the current Kage.
-
+Advisors are those who advise the Kage on affairs they are acustomed too. It is not uncommon for elders or previous Kage to take these positions in order to give insight to the current Kage. A Kage can have up to *3* advisors on their council.
 - reports to := Their "Kage":#kage
 
 h3. ANBU
